@@ -1,0 +1,53 @@
+
+.navbar {
+    background: rgb(61,71,71);
+background: linear-gradient(90deg, rgba(61,71,71,1) 0%, rgba(0,212,255,1) 38%, rgba(5,158,178,1) 71%, rgba(9,118,121,1) 84%);
+    font: 20px Arial, sans-serif;
+}
+
+
+.navbar a img {
+    margin-left: 10px;
+            
+}
+
+.quemsomos {
+    background-color: rgb(106,226,19);
+    background: linear-gradient(90deg, rgba(106,226,19,1) 0%, rgba(164,224,155,1) 38%, rgba(173,207,168,1) 46%, rgba(114,219,42,1) 57%, rgba(5,178,109,1) 71%, rgba(9,121,63,1) 84%);
+    font: Arial, sans-serif;
+    
+}
+
+.margin {
+      padding-top: 5px;
+      padding-bottom: 10px;
+}
+
+.parceiros {
+    background: rgb(55,54,52);
+background: linear-gradient(90deg, rgba(55,54,52,1) 0%, rgba(71,69,67,1) 32%, rgba(45,43,41,1) 63%, rgba(110,106,97,1) 77%, rgba(51,47,42,1) 100%, rgba(115,113,108,1) 100%);
+font: Arial, sans-serif;
+}
+
+.servicos {
+    font: Arial, sans-serif;
+}
+
+.servicos img {
+    border: 3px solid black;
+        background-image: top;
+}
+
+.servicos p{
+           font-weight: bold;
+           font-style: italic;
+          
+}
+
+.bg-footer {
+    background: rgb(1,1,1);
+    background: linear-gradient(90deg, rgba(1,1,1,1) 0%, rgba(31,29,23,1) 32%, rgba(46,45,42,1) 63%, rgba(20,20,18,1) 77%, rgba(51,47,42,1) 100%, rgba(0,0,0,1) 100%);
+    color: whitesmoke;
+    font-weight: bold;
+    font: Arial, sans-serif;
+}
